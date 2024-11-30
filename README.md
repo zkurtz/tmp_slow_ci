@@ -1,0 +1,1 @@
+Findings: `onnx` is slow because they don't officially support python 3.13 yet: https://github.com/onnx/onnx/issues/6339#issuecomment-2488409198
